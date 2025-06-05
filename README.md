@@ -10,6 +10,6 @@
 3. **Output**: Cleaned CSV with `review`, `rating`, `date`, `bank`, `source`.  
 
 ## Files  
-- `scrape_reviews.py` (Collects data)  
-- `preprocess_reviews.py` (Cleans data)  
-- `bank_reviews_clean.csv` (Final dataset)  
+- `scrape_reviews.ipynb` (Collects data)  
+- `preprocess_reviews.ipynb` (Cleans data)  
+- `ETHbank_mobileApp_reviews_clean.csv` (Final dataset)  
