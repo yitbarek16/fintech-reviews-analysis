@@ -12,4 +12,4 @@
 ## Files  
 - `scrape_reviews.ipynb` (Collects data)  
 - `preprocess_reviews.ipynb` (Cleans data)  
-- `ETHbank_mobileApp_reviews_clean.csv` (Final dataset)  
+- `ETHbanks_mobileApp_reviews_clean.csv` (Final dataset)  
